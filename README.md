@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I have a cute and pretty cat, YUNA!!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: find me in HKU</h3>
 <p align="left">
 </p>
 
