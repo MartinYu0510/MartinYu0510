@@ -10,7 +10,7 @@
 - 📫 How to reach me **yumartin0208@gmail.com**
 
 - ⚡ Fun fact **I have a cute and pretty cat, YUNA!!**
-
+<img src="IMG_3901.JPG" alt="MY DAUGHTER"/>
 <h3 align="left">Connect with me: find me in HKU</h3>
 <p align="left">
 </p>
