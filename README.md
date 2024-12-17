@@ -1,5 +1,5 @@
 <h1 align="center">Hello!! I am Martin Ma</h1>
-<h3 align="center">A Computer Science Student in The University of Hong Kong who like drink coffee☕☕☕</h3>
+<h3 align="center">A Computer Science Student in The University of Hong Kong who like drinking coffee☕☕☕</h3>
 
 - 🔭 I’m currently working on **Web-based application for joting note**
 
