@@ -1,7 +1,7 @@
 <h1 align="center">Hello!! I am Martin Ma</h1>
 <h3 align="center">A Computer Science Student in The University of Hong Kong who like drinking coffee☕☕☕</h3>
 
-- 🔭 I’m currently working on **Web-based application for joting note** and **Q-value Temporal Difference Learning model in Reinforcement Learning**
+- 🔭 I’m currently working on **Automatic Fuzzer implemented by LLM agent**
 
 - 🌱 I’m currently learning **tensorflow** and **Deep Learning**
 
