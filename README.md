@@ -1,9 +1,7 @@
 <h1 align="center">Hello!! I am Martin Ma</h1>
 <h3 align="center">A Computer Science Student in The University of Hong Kong who like drinking coffee☕☕☕</h3>
 
-- 🔭 I’m currently working on **Automatic Fuzzer implemented by LLM agent** supervised by [Prof. Chen](http://cs.hku.hk/index.php/people/academic-staff/chenho)
-
-- 🌱 I’m currently learning **tensorflow** and **Deep Learning**
+- 🌱 I’m currently learning **tensorflow** and **Deep Learning** for my FYP
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartinYu0510](https://github.com/MartinYu0510)
 
